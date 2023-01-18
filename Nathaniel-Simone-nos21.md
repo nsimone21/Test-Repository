@@ -9,3 +9,5 @@ One main thing I learned about cloning repositories.
 Never really used Git too much, and this is how you can use Git and GitHub together (I only really used GitHub).
 
 ### Testing out committing a change in GitHub
+
+# This commit was made through Git. Hoping this works.
